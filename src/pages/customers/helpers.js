@@ -16,6 +16,12 @@ export const data = [
     link: 'https://',
     caption: 'Master',
   },
+  {
+    title:
+      'Add a new admin account. Admins have master agents, agents and players under them(not players)',
+    link: 'https://',
+    caption: 'Admin',
+  },
 ];
 
 export const selectDates = [
